@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Basit</h1>
 
 <h3 align="center">Looking for new opportunities</h3>
-<p align="center">Currently, I am looking for new opportunties. If you have anything interesteing, do let me know.</p>
+<p align="center">Currently, I am looking for new opportunties. If you have anything interesting, do let me know.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SEAbdulbasit&label=Profile%20views&color=0e75b6&style=flat" alt="SEAbdulbasit" /> </p>
 
